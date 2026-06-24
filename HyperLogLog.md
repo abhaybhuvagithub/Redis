@@ -1,7 +1,7 @@
 # Redis HyperLogLog - Complete Guide
 
 ## Overview
-https://redis.io/docs/latest/develop/data-types/probabilistic/hyperloglogs/
+Independent Analysis By Abhaykumar Bhuva
 
 **HyperLogLog (HLL)** is a probabilistic data structure used to estimate the number of unique elements (cardinality) in a dataset while consuming a very small and fixed amount of memory.
 
@@ -552,6 +552,7 @@ per HyperLogLog key in dense mode.
 
 ## References
 
+https://redis.io/docs/latest/develop/data-types/probabilistic/hyperloglogs/
 * Redis HyperLogLog Documentation
 * Flajolet HyperLogLog Research Paper
 * Redis Source Code
